@@ -1,0 +1,31 @@
+/**
+ * Global overrides.
+ */
+body {
+  background-color: #000;
+  overflow: hidden;
+}
+
+/**
+ * Page contents.
+ */
+main {
+  display: none;
+  margin: 12% auto;
+  width: 500px;
+}
+
+main h1 {
+  color: #FFFFFF;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+main h1:hover {
+  color: #787878;
+}
+
+main img {
+  max-width: 500px;
+}
